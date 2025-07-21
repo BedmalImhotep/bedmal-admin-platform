@@ -1,0 +1,1 @@
+# bedmal-admin-platform
